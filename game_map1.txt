@@ -1,0 +1,6 @@
+Start Room|You are in a dimly lit room.|north=Hallway|item=Key:A shiny key that looks important.
+Hallway|A long, narrow hallway.|south=Start Room|east=Library|west=Dining Room|north=Abandoned Observatory|item=Torch:A wooden torch that is surprisingly still lit.
+Library|A quiet, dusty library filled with ancient books.|west=Hallway|south=Treasure Room|item=Book:An old book with mysterious runes on the cover.
+Dining Room|An opulent room with a large table, covered in dust.|east=Hallway|item=Candle:A candlestick that might come in handy.
+Treasure Room|The ultimate goal, a room filled to the brim with gold and jewels.|north=Library|item=Gold:Precious gold coins. Your reward!
+Abandoned Observatory|A place where stars were once studied. An old telescope points to the night sky.|south=Hallway|item=Stellar Map:A map of the stars that reveals a hidden constellation.
